@@ -22,3 +22,12 @@ function mostrarAmigos() {
         lista.appendChild(elemento);
     }
 }
+
+function sortearAmigo() {
+    if (amigos.length < 2) {
+        alert("Se necesitan al menos 2 amigoa para realizar el sorteo");
+    } else {
+            let amigoSorteado = amigos[Math.floor(Math.random() * amigos.length)];
+            document.getElementById("resultado").innerHTML = amigoSorteado;
+        }
+    }
