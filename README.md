@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <em> Challenge amigo Secreto </em>
 ![dos amigos dandose un abrazo](https://github.com/user-attachments/assets/7a3bcab0-f113-49c2-a264-fdea334094bd)
 ![badge finalizado](https://img.shields.io/badge/esatdo-finalizado-verde)
